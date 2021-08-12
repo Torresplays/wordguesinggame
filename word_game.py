@@ -125,6 +125,7 @@ def main():
     """
     secret_word = get_word()
     play_game(secret_word)
+    input()
 
 
 # This provided line is required at the end of a Python file
